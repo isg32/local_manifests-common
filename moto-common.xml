@@ -16,7 +16,9 @@
 
     <!-- Device Trees -->
     <project path="device/motorola/common" name="android_device_motorola_common"
-        remote="hanoip" revision="14" />
+        remote="hanoip" revision="14" >
+        <linkfile src="hardware/qcom/os_pickup_ext.mk" dest="vendor/qcom/opensource/Android.mk" />
+    </project>
     <project path="device/motorola/targets" name="android_device_motorola_targets"
         remote="moto-common" revision="master" />
     <!-- SM6150 (4.14) -->
