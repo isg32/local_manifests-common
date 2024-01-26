@@ -37,7 +37,7 @@
         remote="moto-common" revision="14" />
     <!-- SM6150 (4.14) -->
     <project path="vendor/motorola/sm6150-common" name="android_vendor_motorola_sm6150-common"
-        remote="moto-common" revision="14" />
+        remote="hanoip" revision="14" />
     <project path="vendor/motorola/hanoip" name="android_vendor_motorola_hanoip"
         remote="moto-common" revision="14" />
 
