@@ -44,7 +44,7 @@
     <!-- Supporting Repos -->
     <!-- QCOM Common -->
     <project path="device/qcom/common" name="android_device_qcom_common"
-        remote="hanoip" revision="uvite" />
+        remote="aospa" revision="uvite" />
     <project path="vendor/qcom/common" name="proprietary_vendor_qcom_common"
         remote="aospa-vendor" revision="uvite" />
     <!-- HALs -->
