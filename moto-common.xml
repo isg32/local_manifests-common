@@ -4,6 +4,8 @@
         fetch="https://github.com/moto-common/" />
     <remote name="hanoip"
         fetch="https://github.com/moto-hanoip/" />
+    <remote name="anoos"
+        fetch="https://github.com/anoosragh69/" />
     <remote name="aospa"
         fetch="https://github.com/AOSPA/" />
     <remote name="aospa-vendor"
@@ -32,7 +34,7 @@
     <project path="device/motorola/sm6150-common-kernel" name="android_device_motorola_sm6150-common-kernel"
         remote="moto-common" revision="master" />
     <project path="device/motorola/hanoip-kernel" name="android_device_motorola_hanoip-kernel"
-        remote="hanoip" revision="master" />
+        remote="anoos" revision="master" />
     <project path="device/motorola/hanoip" name="android_device_motorola_hanoip"
         remote="hanoip" revision="14" />
     <project path="kernel/motorola/msm-4.14" name="android_kernel_motorola_msm-4.14"
